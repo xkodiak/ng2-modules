@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ng2-modules", "ng2-modules.njsproj", "{4412B275-928F-4538-B7D5-0375C2FC8E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4412B275-928F-4538-B7D5-0375C2FC8E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4412B275-928F-4538-B7D5-0375C2FC8E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4412B275-928F-4538-B7D5-0375C2FC8E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4412B275-928F-4538-B7D5-0375C2FC8E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F91CA6E-56D2-406F-91A1-B236AA5851A4}
+	EndGlobalSection
+EndGlobal

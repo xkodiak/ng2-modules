@@ -1,0 +1,21 @@
+{
+  "name": "ng2-horizon",
+  "version": "1.0.2",
+  "description": "horizon.io client for angular2",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "horizon",
+    "rethinkdb"
+  ],
+  "author": "xkodiak",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/common": "^4.0.0",
+    "@horizon/client": "^2.0.0",
+    "rxjs": "^5.4.1"
+  }
+}
